@@ -26,5 +26,6 @@ public class daySoCong {
             }
             else System.out.println("NO");
         }
+        sc.close();
     }
 }
