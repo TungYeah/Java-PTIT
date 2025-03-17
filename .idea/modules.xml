@@ -3,9 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Bai1/Bai1.iml" filepath="$PROJECT_DIR$/Bai1/Bai1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/Book/Book.iml" filepath="$PROJECT_DIR$/OOP/Book/Book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Java.iml" filepath="$PROJECT_DIR$/Java/Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaPTIT.iml" filepath="$PROJECT_DIR$/JavaPTIT.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/bank/bank.iml" filepath="$PROJECT_DIR$/OOP/bank/bank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/bankTransaction/bankTransaction.iml" filepath="$PROJECT_DIR$/OOP/bankTransaction/bankTransaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/sinhVien/sinhVien.iml" filepath="$PROJECT_DIR$/OOP/sinhVien/sinhVien.iml" />
     </modules>
   </component>
 </project>
