@@ -9,7 +9,9 @@
       <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/bank/bank.iml" filepath="$PROJECT_DIR$/OOP/bank/bank.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/bankTransaction/bankTransaction.iml" filepath="$PROJECT_DIR$/OOP/bankTransaction/bankTransaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/simpleDate/simpleDate.iml" filepath="$PROJECT_DIR$/OOP/simpleDate/simpleDate.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/sinhVien/sinhVien.iml" filepath="$PROJECT_DIR$/OOP/sinhVien/sinhVien.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/songComparison/songComparison.iml" filepath="$PROJECT_DIR$/OOP/songComparison/songComparison.iml" />
     </modules>
   </component>
 </project>
