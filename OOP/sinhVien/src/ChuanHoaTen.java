@@ -1,3 +1,5 @@
+package OOP.sinhVien.src;
+
 import java.util.Scanner;
 
 public class ChuanHoaTen {

@@ -4,11 +4,10 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-// Lớp Author với các hàm accessor, mutator và kiểm tra giá trị gender
 class Author {
     private String name;
     private String email;
-    private char gender; // chỉ chấp nhận 'f' hoặc 'm'
+    private char gender;
 
     public Author() {
     }
